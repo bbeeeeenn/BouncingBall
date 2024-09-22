@@ -1,5 +1,3 @@
-const text = document.getElementById("size");
-
 // Screen
 let screenWidth = window.innerWidth;
 let screenHeight = window.innerHeight;
